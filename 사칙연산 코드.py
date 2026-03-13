@@ -17,6 +17,7 @@ def main():
     print("4. Divide")
     print("5. Retry")
     print("6. ReReReRetry")
+    print("7. 123456")
 
     choice = input("Enter choice (1/2/3/4): ")
 
